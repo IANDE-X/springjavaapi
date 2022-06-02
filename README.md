@@ -34,3 +34,8 @@ so now you can perform the  Sql command because now the data has been posted in 
 
 this is a working version   as of 1/6/2022
 Updated all the dependencies to  the working stable verons 
+
+## add info 
+you can also decide to coment the  sql  script under  application.properties file
+then use h2console.
+use port 8090
